@@ -63,6 +63,7 @@ header{
     width: 30px;
     height: 15px;
 }
+
 .search{
     margin-top: 4px;
     padding: 0px 10px;
@@ -125,7 +126,7 @@ span.material-icons:hover{
    border-radius: 50%;
    cursor: pointer;
   
-   margin-left: 8px;
+   margin-left: 16px;
    margin-top: 2px;
 
 }
@@ -383,4 +384,30 @@ span.material-icons:hover{
     color:#898989;
     text-decoration: underline;
 
+}
+
+
+
+
+.navb{
+    margin-left: 350px;
+}
+.img-user1{
+    width: 30px;
+   height: 30px;
+   border-radius: 3px;
+   cursor: pointer;
+   
+   margin-left: 70px;
+   margin-top: 2px;
+
+}
+.main-up{
+    margin-top: 70px;
+    background-color: #212124;
+    height: 100%;
+    
+}
+.uploadImg{
+    margin-top: 50%;
 }
