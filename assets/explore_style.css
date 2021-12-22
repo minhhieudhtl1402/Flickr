@@ -153,8 +153,7 @@ body .tabUI {
  
   .tabs {
     display: flex;
-    /* position: relative; */
-    
+   
    
     position: fixed;
     background-color: #fff;
